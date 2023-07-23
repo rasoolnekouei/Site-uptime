@@ -1,0 +1,28 @@
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\bin\Debug\Test Uptime.exe.config
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\bin\Debug\Test Uptime.exe
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\bin\Debug\Test Uptime.pdb
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\obj\Debug\Test Uptime.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\obj\Debug\Test_Uptime.Form1.resources
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\obj\Debug\Test_Uptime.Properties.Resources.resources
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\obj\Debug\Test Uptime.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\obj\Debug\Test Uptime.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\obj\Debug\Test Uptime.exe
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\obj\Debug\Test Uptime.pdb
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\bin\Debug\Kavenegar.dll
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\Test Uptime\Test Uptime\obj\Debug\Test Uptime.csproj.CopyComplete
+G:\Project\Test Uptime\Test Uptime\bin\Debug\Test Uptime.exe.config
+G:\Project\Test Uptime\Test Uptime\bin\Debug\Test Uptime.exe
+G:\Project\Test Uptime\Test Uptime\bin\Debug\Test Uptime.pdb
+G:\Project\Test Uptime\Test Uptime\bin\Debug\Kavenegar.dll
+G:\Project\Test Uptime\Test Uptime\bin\Debug\Newtonsoft.Json.dll
+G:\Project\Test Uptime\Test Uptime\bin\Debug\Newtonsoft.Json.xml
+G:\Project\Test Uptime\Test Uptime\obj\Debug\Test_Uptime.Form1.resources
+G:\Project\Test Uptime\Test Uptime\obj\Debug\Test_Uptime.Properties.Resources.resources
+G:\Project\Test Uptime\Test Uptime\obj\Debug\Test Uptime.csproj.GenerateResource.cache
+G:\Project\Test Uptime\Test Uptime\obj\Debug\Test Uptime.csproj.CoreCompileInputs.cache
+G:\Project\Test Uptime\Test Uptime\obj\Debug\Test Uptime.csproj.CopyComplete
+G:\Project\Test Uptime\Test Uptime\obj\Debug\Test Uptime.exe
+G:\Project\Test Uptime\Test Uptime\obj\Debug\Test Uptime.pdb
+G:\Project\Test Uptime\Test Uptime\obj\Debug\Test Uptime.csprojAssemblyReference.cache
